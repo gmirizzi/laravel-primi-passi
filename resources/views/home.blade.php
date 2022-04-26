@@ -8,5 +8,12 @@
 </head>
 <body>
     <h1>Hello {{$name}}</h1>
+    <header>
+        <ul>
+            <li><a href="/about">About</a></li>
+            <li><a href="/services">Services</a></li>
+            <li><a href="/contacts">Contacts</a></li>
+        </ul>
+    </header>
 </body>
 </html>
